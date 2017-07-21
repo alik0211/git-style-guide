@@ -1,4 +1,4 @@
-# Git Style Guide
+# Git Style Guide [RU]
 
 Переводы доступны на следующих языках:
 
