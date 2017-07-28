@@ -49,7 +49,7 @@
   ```shell
   $ git checkout -b feature-a/master # командная ветка
   $ git checkout -b feature-a/maria  # Персональная ветка Марии
-  $ git checkout -b feature-a/petr   # Персональная ветка Петра
+  $ git checkout -b feature-a/nikita # Персональная ветка Никиты
   ```
 
   При желании можно объеденить персональную ветку с командной (см. ["Слияние"](#merging))
